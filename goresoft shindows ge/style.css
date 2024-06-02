@@ -1,0 +1,31 @@
+
+p{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+h1{
+    margin-top: 25px;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    margin-top: 25px;
+}
+h2{
+    text-align: center;
+    margin-top: 25px;
+}
+footer{
+    background-color: black;
+}
+h5{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.card-body{
+    background-color: rgb(6, 6, 214);
+}
+.card-title{
+
+    text-align: center;
+}
